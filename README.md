@@ -2,6 +2,8 @@
 
 As we look to streamline content and improve training, we are considering retiring the Microsoft Cloud Workshop (MCW) program. Please take a moment to fill out the [Microsoft Cloud Workshop Survey](https://forms.office.com/r/834zwtaNtK) and give us your feedback.
 
+This is a change
+
 ## Hybrid identity
 
 Contoso is a medium size financial services company with its headquarters in New York and a branch office in San Francisco. It is currently operating entirely on-premises, with majority of its infrastructure running on the Windows platform. Contoso has recently upgraded its Active Directory environment to Windows Server 2016 and it is in the process of migrating its desktops from Windows 7 to Windows 10.
